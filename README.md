@@ -21,5 +21,9 @@ Nazywam się Sebastian Szczotka. Moją pasją są capoeira oraz górskie wędró
 
 * Zostań testerem - Sii Training Practice
 
+# Certyfikaty
+
+* Certyfikowany Tester ISTQB® Poziom Podstawowy
+
 # Dokumentacja testowania
 **w trakcie przygotowania**
