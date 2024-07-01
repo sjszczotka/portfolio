@@ -2,7 +2,7 @@
 
 # O mnie
 
-Nazywam się Sebastian Szczotka. Moją pasją są capoeira oraz górskie wędrówki. Aktualnie pracuję na stanowisku kontrolera jakości, mimo iż moja praca ma charakter fizyczny jest zbliżona do pracy testera oprogramowania. Aby wejść do świata IT ukończyłem szkolenie "Zostań testerem" organizowane przez Sii Training Practice oraz zdobyłem certyfikat "Certyfikowany Tester ISTQB® Poziom Podstawowy". Ponadto jestem w trakcie studiów podyplomowych "Akademia programowania w Pythonie" na Collegium Da Vinci.
+Nazywam się Sebastian Szczotka. Moją pasją jest capoeira oraz górskie wędrówki. Aktualnie pracuję na stanowisku kontrolera jakości, mimo iż moja praca ma charakter fizyczny jest zbliżona do pracy testera oprogramowania. Aby wejść do świata IT ukończyłem szkolenie "Zostań testerem" organizowane przez Sii Training Practice oraz zdobyłem certyfikat "Certyfikowany Tester ISTQB® Poziom Podstawowy". Ponadto jestem w trakcie studiów podyplomowych "Akademia programowania w Pythonie" na Collegium Da Vinci.
 
 # Narzędzia
 
